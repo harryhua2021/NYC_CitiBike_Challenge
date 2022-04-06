@@ -46,5 +46,15 @@ Number of Rides per Hour Non-peak hours are 1-5 am.
 ### 7. Number of Rides with Bike ID
 ![alt text](https://github.com/harryhua2021/NYC_CitiBike_Challenge/blob/main/Challenge/images/6_Repairs.PNG)
 ### Summary:
-
-    Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am. Male subscribers are the highest users and follow the traditional high use times of travel to and from work. Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.
+Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am. Male subscribers are the highest users and follow the traditional high use times of travel to and from work. Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.
+### Additional Analysis:
+For NYC, there were some interesting geographical areas of interest. Some trips were outside the main city center. Other areas followed the along the river. Future analysis would need to include a geographical review.
+### 1. Ride Starting Locations by Gender
+Ride Starting Locations by Gender Males are more likely to start a trip farther than the main city center of NYC than others. 
+![alt text](https://github.com/harryhua2021/NYC_CitiBike_Challenge/blob/main/Challenge/images/extra1.PNG)
+### 2. Ride Ending Locations by Gender
+Ride Ending Locations by Gender Males are more likely end a trip across the river in the southwest area of NYC than others. 
+![alt text](https://github.com/harryhua2021/NYC_CitiBike_Challenge/blob/main/Challenge/images/extra2.PNG)
+### 3. User Type Starting Location
+User Type Starting Location Subscribers are more likely to start trip farther than the main city center of NYC than others. 
+![alt text](https://github.com/harryhua2021/NYC_CitiBike_Challenge/blob/main/Challenge/images/extra3.PNG)
